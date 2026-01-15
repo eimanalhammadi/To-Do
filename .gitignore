@@ -54,3 +54,5 @@ TestResult.xml
 nunit-*.xml
 /.vs
 /MauiTodoSqlite/.vs/MauiTodoSqlite
+/MauiApp1
+/MauiTodoSqlite/.vs/ProjectEvaluation
